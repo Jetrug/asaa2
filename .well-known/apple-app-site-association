@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "HAGG2MWK28.com.gurtejsuri.nav",
-        "paths": [ "/tabs/*", "/search/*" ]
+        "paths": [ "/*", "/(tabs)/*", "/tabs/*", "/search/*" ]
       }
     ]
   }
