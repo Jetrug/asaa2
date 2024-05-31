@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "HAGG2MWK28.com.gurtejsuri.nav",
+        "paths": [ "/tabs/*", "/search/*" ]
+      }
+    ]
+  }
+}
